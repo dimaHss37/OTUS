@@ -99,7 +99,7 @@ lrwxrwxrwx 1 root root       32 Oct 31 21:25 vmlinuz -> vmlinuz-6.18.0-061800rc1
 
 
 * Перезагружаем ОС и выбираем загрузку с новым ядром 6.18.
-![[Снимок экрана от 2025-10-31 21-33-53.png]]
+<img width="1465" height="927" alt="Снимок экрана от 2025-10-31 21-33-53" src="https://github.com/user-attachments/assets/6baed7dd-1b13-4dee-a713-6ad40dee65b7" />
 
 * Проверяем текущую версию ядра:
-![[Снимок экрана от 2025-10-31 21-47-37.png]]
+<img width="878" height="278" alt="Снимок экрана от 2025-10-31 21-47-37" src="https://github.com/user-attachments/assets/f2ce6465-8475-45b7-a570-4ef146b0a273" />
